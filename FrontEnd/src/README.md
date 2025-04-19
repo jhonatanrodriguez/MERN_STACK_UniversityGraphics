@@ -1,0 +1,8 @@
+
+
+
+
+
+
+hola este es un proyecto desarrollado por jhonatan rodriguez estudiante de la universidad autonoma de occidente
+, se trata de una aplicacion que permite acceder a una base de datos donde se puede visualizar en la seccion de graficos los 15 primeros paises con mas numero de universidades en el mundo, en el se puede apreciar una tabla donde se muestra el nombre del pais y su cantidad de universidades, un grafico de barras y un grafico radial con la misma informacion, ademas de un mapa interactivo donde al colocar el puntero sobre el pais se mostrara tambien la informacion, por otro lado tenemos el enlace a datos dondehay una entrada de texto y al llenar el campo con el nombre de un pais iniciando siempre con la primera letra mayuscula se obtiene una lista de las 10 primeras universidades del pais buscado, el resultado es visible cono cards y en la parte inferior como tablas, disfruten de esta pieza de diseño y programacion, gracias.
